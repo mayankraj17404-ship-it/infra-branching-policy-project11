@@ -11,3 +11,7 @@
 ## Deployment Rules
 - Infrastructure changes must be validated before deployment.
 - Approved changes can be merged into main.
+
+## Change Request
+- New infrastructure changes require validation on a feature branch.
+- Changes must be reviewed before merging into main.
